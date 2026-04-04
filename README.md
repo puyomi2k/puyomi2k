@@ -13,7 +13,7 @@ Some examples of what I'm doing/was doing
 ![Static Badge](https://img.shields.io/badge/gfx_channel-yt?style=for-the-badge&logo=youtube&color=red) ![Static Badge](https://img.shields.io/badge/gfx%20twitter-x?style=for-the-badge&logo=x&color=black) ![Static Badge](https://img.shields.io/badge/portfolio-be?style=for-the-badge&logo=behance&color=blue)
 
 ## Translator for
-|Collapse Launcher|Enka.Network|
+|Enka.Network|Collapse Launcher|
 |-----------------|------------|
-|[![](assets/collapse-launcher/NewBannerv2-de-edit-puyomi2k.webp)](https://github.com/CollapseLauncher/Collapse/blob/main/Docs/README.localized/README.de-de.md) Localized Banner for their GitHub Project - Originally created by neon-nyan|![](https://api.dgnr.us/v1/card/genshin/703679877)|
-|[![Collapse](https://img.shields.io/badge/collapse_launcher-team_page-orange?style=for-the-badge)](https://collapselauncher.com/team.html)|[![Enka.Network](https://img.shields.io/badge/enka.network-my_profile-blue?style=for-the-badge)](https://enka.cc/puyomi)|
+|<img src="https://api.dgnr.us/v1/card/genshin/703679877" width="50vw">|<img src="assets/collapse-launcher/NewBannerv2-de-edit-puyomi2k.webp" width="50vw"> Localized Banner for their GitHub Project - Originally created by neon-nyan|
+|[![Enka.Network](https://img.shields.io/badge/enka.network-my_profile-blue?style=for-the-badge)](https://enka.cc/puyomi)|[![Collapse](https://img.shields.io/badge/collapse_launcher-team_page-orange?style=for-the-badge)](https://collapselauncher.com/team.html)|
