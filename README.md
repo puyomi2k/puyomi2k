@@ -12,11 +12,8 @@ Some examples of what I'm doing/was doing
 [![YouTube](https://img.shields.io/badge/gfx_channel-yt?style=for-the-badge&logo=youtube&color=red)](https://youtube.com/@puyomi2k.designs) [![Twitter](https://img.shields.io/badge/gfx%20twitter-x?style=for-the-badge&logo=x&color=black)](https://twitter.com/puyomi2k) [![Behance](https://img.shields.io/badge/portfolio-be?style=for-the-badge&logo=behance&color=blue)](https://www.behance.net/puyomi)
 
 ## Translator for
-<center>
 
 |Enka.Network|Collapse Launcher|
 |------------|-----------------|
-|<img src="https://api.dgnr.us/v1/card/genshin/703679877/125" width="80%" >|<a href="https://github.com/CollapseLauncher/Collapse/blob/main/Docs/README.localized/README.de-de.md"><img src="assets/collapse-launcher/NewBannerv2-de-edit-puyomi2k.webp"></a>|
-|[![Enka.Network](https://img.shields.io/badge/enka.network-my_profile-blue?style=for-the-badge)](https://enka.cc/puyomi)|[![Collapse](https://img.shields.io/badge/collapse_launcher-team_page-orange?style=for-the-badge)](https://collapselauncher.com/team.html)|
-
-</center>
+|<img src="https://api.dgnr.us/v1/card/genshin/703679877" width="80%" >|<a href="#"><img src="assets/collapse-launcher/NewBannerv2-de-edit-puyomi2k.webp"></a>|
+|[![Enka.Network](https://img.shields.io/badge/enka.network-my_profile-blue?style=for-the-badge)](https://enka.cc/puyomi)|[![Collapse](https://img.shields.io/badge/collapse_launcher-team_page-orange?style=for-the-badge)](https://collapselauncher.com/team.html) [![Readme-DE](https://img.shields.io/badge/readme-de-green?style=for-the-badge)](https://github.com/CollapseLauncher/Collapse/blob/main/Docs/README.localized/README.de-de.md)|

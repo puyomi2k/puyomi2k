@@ -125,7 +125,7 @@ Darüber hinaus bietet dieser Launcher einige erweiterte Funktionen für **Gensh
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FCollapseLauncher%2FCollapse.svg?type=large&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2FCollapseLauncher%2FCollapse?ref=badge_large&issueType=license)
 
 # Überblick über die Benutzeroberfläche
-![Überblick Benutzeroberfläche](https://raw.githubusercontent.com/puyomi2k/puyomi2k/refs/heads/main/assets/collapse-launcher/ui-overview-de.webp)
+[![Überblick Benutzeroberfläche](https://github.com/puyomi2k/puyomi2k/blob/main/assets/collapse-launcher/ui-overview-de.webp?raw=true)](https://github.com/puyomi2k/puyomi2k/blob/main/assets/collapse-launcher/ui-overview-de.webp)
 
 # Wie kann ich dieses Projekt unterstützen?
 Eine Unterstützung ist niemals eine Verpflichtung, wird aber immer sehr geschätzt und motiviert uns, mehr Zeit in das Projekt zu investieren und dieses sowie andere Projekte am Leben zu erhalten. Solltest du dich entscheiden, uns zu unterstützen, hast du folgende Möglichkeiten :smile::
