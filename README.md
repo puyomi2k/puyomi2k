@@ -1,7 +1,7 @@
 <a href="#"><img src="assets/personal/branding/puyoverse-26-refresh/mi-color.svg" width="67%"></a>
 
 # _Hey Leute na!_ 👋
-I'm **Rouven**, a 27 y/o hobbyist **graphic designer** and **volunteer translater/localizer** from Germany, focusing on logo and social media designs and sometimes some small hobby script projects.
+I'm **Rouven**, a 27 y/o hobbyist [**graphic designer**](#graphic-design) and [**volunteer translater/localizer**](#translator-for) from Germany, focusing on logo and social media designs and sometimes some small hobby script projects.
 
 ## Graphic Design
 Some examples of what I'm doing/was doing
@@ -13,7 +13,22 @@ Some examples of what I'm doing/was doing
 
 ## Translator for
 
-|Enka.Network|Collapse Launcher|
-|------------|-----------------|
-|<img src="https://api.dgnr.us/v1/card/genshin/703679877" width="80%" >|<a href="#"><img src="assets/collapse-launcher/NewBannerv2-de-edit-puyomi2k.webp"></a>|
-|[![Enka.Network](https://img.shields.io/badge/enka.network-my_profile-blue?style=for-the-badge)](https://enka.cc/puyomi)|[![Collapse](https://img.shields.io/badge/collapse_launcher-team_page-orange?style=for-the-badge)](https://collapselauncher.com/team.html) [![Readme-DE](https://img.shields.io/badge/readme-de-green?style=for-the-badge)](https://github.com/CollapseLauncher/Collapse/blob/main/Docs/README.localized/README.de-de.md)|
+| Enka.Network    | Collapse Launcher    |
+|-----------------|----------------------|
+| ![Enka.Network] | ![Collapse Launcher] |
+| [![Enka Badge]](https://enka.cc/puyomi)|[![Collapse Badge]](https://collapselauncher.com/team.html) [![Readme-DE](https://img.shields.io/badge/readme-de-green?style=for-the-badge)](https://github.com/CollapseLauncher/Collapse/blob/main/Docs/README.localized/README.de-de.md)|
+
+### Other projects I contributed to
+- [Tech5G5G/Fluentver](https://github.com/Tech5G5G/Fluentver/issues/10) [🌐]
+
+<!---
+End of readable part
+- Resources
+-->
+
+[🌐]:#other-projects-i-contributed-to "Translation"
+
+[Enka.Network]:https://api.dgnr.us/v1/card/genshin/703679877/125 "Personal Columbina Build"
+[Enka Badge]:https://img.shields.io/badge/enka.network-my_profile-blue?style=for-the-badge
+[Collapse Launcher]:assets/collapse-launcher/NewBannerv2-de-edit-puyomi2k.webp
+[Collapse Badge]:https://img.shields.io/badge/collapse_launcher-team_page-orange?style=for-the-badge
