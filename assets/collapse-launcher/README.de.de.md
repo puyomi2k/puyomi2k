@@ -15,7 +15,7 @@
 [![fr](https://img.shields.io/badge/README-fr-red.svg)](Docs/README.localized/README.fr-fr.md)
 [![ru](https://img.shields.io/badge/README-ru-red.svg)](Docs/README.localized/README.ru-ru.md)
 [![zh](https://img.shields.io/badge/README-zh-red.svg)](Docs/README.localized/README.zh-cn.md)
-[![de](https://img.shields.io/badge/README-de-green.svg)](Docs/README.localized/README.de-de.md)
+[![de](https://img.shields.io/badge/README-de-blue.svg)](Docs/README.localized/README.de-de.md)
 
 **Collapse** wurde ursprünglich für **Honkai Impact 3rd** entwickelt. Im Laufe der Projektentwicklung hat sich dieser Launcher jedoch zu einem Spiel-Client für alle derzeit veröffentlichten **miHoYo-Spiele** entwickelt, der über sein Plugin-System sogar externe Spiele unterstützt!
 
@@ -57,7 +57,7 @@ Collapse stammt aus der Übersetzung von **Honkai Impact** ins Chinesische und J
 * Konvertierung von der Global- zur SEA-Version (oder umgekehrt).
 * Multi-Session-Download für schnelleren Spiel-Download/Installation.
 * Multi-Thread-Spiel-Extraktion für schnellere Installation.
-* Delta-Patch-Update-Mechanismus für kleinere Updates ([**Klick hier**](https://collapselauncher.com/feature/delta-patch.html). um mehr zu erfahren).
+* Delta-Patch-Update-Mechanismus für kleinere Updates ([**Klick hier**](https://collapselauncher.com/feature/delta-patch.html), um mehr zu erfahren).
 * Möglichkeit zur Auswahl der Grafik-API (DirectX 11 (FL: 10.1, 11.0 und 11.1) und DirectX 12 [kann in neueren Spielphasen zu Abstürzen führen]).
 
 Darüber hinaus bietet dieser Launcher einige erweiterte Funktionen für **Genshin Impact**, darunter unter anderem:
@@ -70,15 +70,10 @@ Darüber hinaus bietet dieser Launcher einige erweiterte Funktionen für **Gensh
 # Fertige Builds herunterladen
 
 [<img src="https://img.shields.io/badge/Launcher%20herunterladen-stable?logo=abdownloadmanager&logoColor=white&color=orange" height="44vh"/>](https://github.com/CollapseLauncher/Collapse/releases/latest/download/CollapseLauncher-stable-Setup.exe)
-> Für mehr Infos zur aktuellen Version sowie weiterer [**klicke hier**](https://github.com/CollapseLauncher/Collapse/releases?q="Stable+[Codename")
-<details>
-	<summary><b>Weitere Downloadoptionen</b></summary>
-<br>
+> Weitere Infos zur aktuellen **Release**-Build sowie älteren Versionen findest du [**hier `EN`**](https://github.com/CollapseLauncher/Collapse/releases?q="Stable+[Codename").
 
-[<img src="https://img.shields.io/badge/Preview%20herunterladen-stable?logo=abdownloadmanager&logoColor=grey&color=silver" height="44vh"/>](https://github.com/CollapseLauncher/Collapse/releases?q="Preview+[Codename")
-### Um alle Versionen anzuzeigen, [**klicke hier**](https://github.com/CollapseLauncher/Collapse/releases).
-
-</details>
+[<img src="https://img.shields.io/badge/Preview%20herunterladen-stable?logo=abdownloadmanager&logoColor=grey&color=silver" height="44vh"/>](https://collapselauncher.com/pre-release.html)
+> Weitere Infos zur aktuellen **Preview (Beta)**-Build sowie älteren Versionen findest du [**hier `EN`**](https://github.com/CollapseLauncher/Collapse/releases?q="Preview+[Codename").
 
 # Systemanforderungen für die fertige Version
 - Betriebssystem: **Windows 10 1809 Update (Build 17763)** oder höher / **Windows 11 (alle Builds)**
@@ -88,15 +83,15 @@ Darüber hinaus bietet dieser Launcher einige erweiterte Funktionen für **Gensh
 ***
 
 # Voraussetzungen für die lokale Kompilierung/Entwicklung
-> ### Weitere Informationen findest du in den [**Richtlinien zum Beitragen (EN)**](CONTRIBUTING.md)
+> ### Weitere Informationen findest du in den [**Richtlinien zum Beitragen `EN`**](../../CONTRIBUTING.md)
 
 ***
 
 # Richtlinien zur Codesignierung
 > Kostenlose Codesignierung bereitgestellt von [SignPath.io], Zertifikat von [SignPath Foundation]
 - Dieses Programm überträgt Benutzerdaten ausschließlich an den vom Benutzer konfigurierten Datenbankserver. Ausnahmedaten werden zur Fehlerverfolgung an [Sentry.io] gesendet (Benutzer können diese Funktion in den App-Einstellungen deaktivieren).
-- Lese unsere vollständigen [**Datenschutzrichtlinien**](PRIVACY.md)
-- Lese auch unsere [**Hinweise zu Drittanbietern**](THIRD_PARTY_NOTICES.md) bezüglich der Lizenzen für von uns verwendete Bibliotheken von Drittanbietern.
+- Lese unsere vollständigen [**Datenschutzrichtlinien `EN`**](../../PRIVACY.md)
+- Lese auch unsere [**Hinweise zu Drittanbietern `EN`**](../../THIRD_PARTY_NOTICES.md) bezüglich der Lizenzen für von uns verwendete Bibliotheken von Drittanbietern.
 
 # In diesem Projekt verwendete Repositorys und Bibliotheken von Drittanbietern
 **Haftungsausschluss**: Dieses Projekt **STEHT IN KEINERLEI VERBINDUNG** zu [**miHoYo (miHoYo Co., Ltd.)**](https://www.mihoyo.com/en) oder [**HoYoverse (COGNOSPHERE PTE. LTD.)**](https://www.hoyoverse.com/de-de) und ist vollständig als Open-Source verfügbar. Beiträge sind jederzeit willkommen! 😃
@@ -132,7 +127,7 @@ Eine Unterstützung ist niemals eine Verpflichtung, wird aber immer sehr geschä
 - **[GitHub Sponsors](https://github.com/sponsors/neon-nyan)**
 - **[PayPal](https://paypal.me/neonnyan)**
 
-Von Kapitänen aus aller Welt mit ❤️ gemacht. Kämpft für alles Schöne auf dieser Welt!
+Von Kapitänen aus aller Welt mit ❤️ gemacht. Kämpfe für alles Schöne auf der Welt!
 
 [SignPath Foundation]:https://signpath.org
 [SignPath.io]:https://signpath.io
